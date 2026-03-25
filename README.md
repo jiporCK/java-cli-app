@@ -5,7 +5,7 @@ A simple CLI-based Java Program
 - Gradle
 
 ## Run the program
-- ./gradlew clean build
+- <code>./gradlew clean build</code>
 - <code>java -jar <file_name>.jar --help</code>
 
 ## Example Usage
